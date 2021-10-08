@@ -1,0 +1,1 @@
+alter table person add column phone varchar(100) not null
